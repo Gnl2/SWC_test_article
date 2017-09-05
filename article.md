@@ -12,6 +12,8 @@
 
 ### PinT bind sRNA in an Hfq-dependent manner
 
+### MicA compete for Hfq 
+
 ## Discussion
 
 ## Future perspectives
